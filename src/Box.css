@@ -1,0 +1,14 @@
+.box {
+    width: 100px;
+    height: 60px;
+    /* background-color: grey; */
+    margin: 10px;
+}
+
+.bg-grey {
+    background-color: grey;
+}
+
+.bg-green {
+    background-color: green;
+}
